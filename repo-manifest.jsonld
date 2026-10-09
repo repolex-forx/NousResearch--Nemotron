@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/Nemotron/commit/02d6bd036ec364c34dc9f0145413c7fe72a890e6",
       "git:hexsha": "02d6bd036ec364c34dc9f0145413c7fe72a890e6",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-09T13:06:37.269136+00:00"
     }
   ]
 }
